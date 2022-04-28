@@ -1,0 +1,11 @@
+items:
+- книга
+- машина
+- phone
+- mouse
+items_price:
+  mouse: 4€-7€
+  phone: 100€-500€
+  книга: 1€-10€
+  машина: 1000€-3000€
+items_quantity: 4
